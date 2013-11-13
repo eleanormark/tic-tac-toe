@@ -1,3 +1,3 @@
 tic-tac-toe
 ===========
-A simple web-based game writtin in JavaScript using JQuery and tested with Mocha and Chai.
+A web-based game written in JavaScript using jQuery and tested with Mocha and Chai.
